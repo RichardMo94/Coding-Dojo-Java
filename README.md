@@ -1,14 +1,12 @@
 # Coding-Dojo-Java
 # Course work from Coding Dojo's Java stack that includes Java Fundamentals, Java OOP, Java on the Web and Java Spring.
 # Technologies:
-* Java
-* Spring Tool Suite
-* MySQL
-* Spring Boot
-* Spring Data-JPA
-* Spring Security
-* Spring MVC
-* JSP
+* Java Fundamentals
+* Object Oriented Programming with Java
+* Java on the Web (Servlets & JSP)
+* Java Spring I
+* Java Spring II
+* Java Spring Deployment
 # Skills:
 * OOP & MVC
 * Web Security
