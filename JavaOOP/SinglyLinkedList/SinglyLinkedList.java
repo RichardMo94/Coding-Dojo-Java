@@ -4,7 +4,7 @@ public class SinglyLinkedList {
     
     public SinglyLinkedList() {
         this.head = null;
-    }
+    } 
 
     // SLL methods go here. As a starter, we will show you how to add a node to the list.
     public void add(int value) {
