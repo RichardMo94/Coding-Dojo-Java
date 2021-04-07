@@ -6,7 +6,7 @@ static int samuraiCount = 0;
 	public Samurai() {
 		this.health = 200;
 		samuraiCount +=1;
-	}
+	} 
 	public Samurai(String name) {
 		this.health = 200;
 		this.name = name;
