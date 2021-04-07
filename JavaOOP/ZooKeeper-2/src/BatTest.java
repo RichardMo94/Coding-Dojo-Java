@@ -12,4 +12,4 @@ public class BatTest {
 		fruitBat.displayEnergy();
 	}
 	
-}
+} 
