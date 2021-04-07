@@ -14,5 +14,5 @@ public class Gorilla extends Mammal {
 		energyLevel -= 10;
 		System.out.println("The Gorilla climbed a tree!");
 		displayEnergy();
-	}
+	} 
 }
