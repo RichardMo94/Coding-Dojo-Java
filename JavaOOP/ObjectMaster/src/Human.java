@@ -7,7 +7,7 @@ public class Human {
 	public int health = 100;
 	
 	public Human() {
-		
+			
 	}
 	public Human(String name) {
 		this.name = name;
