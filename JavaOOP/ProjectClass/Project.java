@@ -3,7 +3,7 @@ public class Project{
     private String description;
     private String pitch;
     private int cost;
-
+ 
 
     public String elevatorPitch(){
         return this.name + " $" +this.cost + " : " + this.description;
