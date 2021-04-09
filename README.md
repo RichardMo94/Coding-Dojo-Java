@@ -25,3 +25,4 @@
 * Week 2 - Sprint Boot, Services, Repositories, Data Model and MySql
 * Week 3 - Creating model-view-controller applications, Authentication and Authorization with Spring Security and RESTful APIs
 * Week 4 - Project Week, Belt exam preparation and Belt Exam.
+
